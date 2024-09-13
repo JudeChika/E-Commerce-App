@@ -1,7 +1,6 @@
 import 'package:e_commerce_application/features/shop/screens/all_products/all_products.dart';
 import 'package:e_commerce_application/features/shop/screens/home/widgets/home_categories.dart';
 import 'package:e_commerce_application/features/shop/screens/home/widgets/promo_slider.dart';
-import 'package:e_commerce_application/utils/constants/image_strings.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -7,7 +7,7 @@ import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
 
 class ReAuthLoginForm extends StatelessWidget {
-  const ReAuthLoginForm({Key? key}) : super(key: key);
+  const ReAuthLoginForm({super.key});
 
   @override
   Widget build(BuildContext context) {

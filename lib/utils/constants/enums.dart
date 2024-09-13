@@ -1,6 +1,7 @@
 
 /// List of Enums
 /// They cannot be created inside a class
+library;
 
 enum ProductType {single, variable}
 
